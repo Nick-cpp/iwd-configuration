@@ -1,0 +1,2 @@
+iwd + dhcpcd + impala
+sudo dinitctl enable iwd; sudo dinitctl enable dhcpcd
